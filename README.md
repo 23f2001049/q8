@@ -49,13 +49,6 @@ Primary solution: **Optimize supply chain and demand forecasting**.
 1. Run `python analysis.py` to compute averages and save the chart.
 2. Or open `inventory_turnover_trend.png` for the plotted result.
 
-## Suggested GitHub PR Contents
-- `analysis.py` — data processing + plotting code.
-- `inventory_turnover_trend.png` — chart (512×512 px).
-- `README.md` — this data story (must include your email for verification).
-
-**Note about automation / tools requested:** I cannot access external LLM services (e.g., Jules/ChatGPT Codex at https://chatgpt.com/codex/tasks) or create GitHub Pull Requests on your behalf from this environment. Instead, I have provided runnable code, the generated visualization, and a complete README so you (or an automated pipeline using an LLM) can create the PR quickly.
-
 ## Verification checklist for the PR
 - [ ] `README.md` contains the email `23f2001049@ds.study.iitm.ac.in`.
 - [ ] `README.md` lists the correct average `7.3`.
